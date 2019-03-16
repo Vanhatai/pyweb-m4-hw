@@ -11,15 +11,11 @@ p:hover {
   background-color: lightgreen;
   /* font-weight: bold; */
 }
-img {
-  width: 70%;
-  align-self: center;
-}
 .wImages {
 	clear: both;
-	padding-top: 20px;
+	padding-top: 10px;
 	position: relative;
-	width: 310px;
+	width: auto;
 	margin: 0 auto
 }
 .wImages_arrow {
@@ -29,6 +25,5 @@ img {
 	position: absolute;
 	top: 0;
 	width: 33.55%;
-	display: none;
 }
 
