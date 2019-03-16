@@ -16,19 +16,19 @@ img {
   align-self: center;
 }
 .wImages {
-			clear: both;
-			padding-top: 20px;
-			position: relative;
-			width: 310px;
-			margin: 0 auto
+	clear: both;
+	padding-top: 20px;
+	position: relative;
+	width: 310px;
+	margin: 0 auto
 }
-.wImages__arrow {
-			-webkit-animation: a 1s infinite;
-			animation: a 1s infinite;
-			left: 40%;
-			position: absolute;
-			top: 0;
-			width: 33.55%;
-			display: none;
+.wImages_arrow {
+	-webkit-animation: a 1s infinite;
+	animation: a 1s infinite;
+	left: 40%;
+	position: absolute;
+	top: 0;
+	width: 33.55%;
+	display: none;
 }
 
