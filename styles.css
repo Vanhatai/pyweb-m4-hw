@@ -15,15 +15,20 @@ img {
   width: 70%;
   align-self: center;
 }
-/* .row {
-  display: flex;
-  flex-wrap: wrap;
+.wImages {
+			clear: both;
+			padding-top: 20px;
+			position: relative;
+			width: 310px;
+			margin: 0 auto
+}
+.wImages__arrow {
+			-webkit-animation: a 1s infinite;
+			animation: a 1s infinite;
+			left: 40%;
+			position: absolute;
+			top: 0;
+			width: 33.55%;
+			display: none;
 }
 
-.row > div {
-  background-color: springgreen;
-  font-size: 20px;
-  margin: 20px;
-  padding: 20px;
-  width: 200px;
-} */ 
